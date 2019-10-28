@@ -1,0 +1,11 @@
+C:\Users\God of War\Documents\GitHub\FirstCSharp\bin\Debug\netcoreapp2.2\FirstCSharp.deps.json
+C:\Users\God of War\Documents\GitHub\FirstCSharp\bin\Debug\netcoreapp2.2\FirstCSharp.runtimeconfig.json
+C:\Users\God of War\Documents\GitHub\FirstCSharp\bin\Debug\netcoreapp2.2\FirstCSharp.runtimeconfig.dev.json
+C:\Users\God of War\Documents\GitHub\FirstCSharp\bin\Debug\netcoreapp2.2\FirstCSharp.dll
+C:\Users\God of War\Documents\GitHub\FirstCSharp\bin\Debug\netcoreapp2.2\FirstCSharp.pdb
+C:\Users\God of War\Documents\GitHub\FirstCSharp\obj\Debug\netcoreapp2.2\FirstCSharp.csprojAssemblyReference.cache
+C:\Users\God of War\Documents\GitHub\FirstCSharp\obj\Debug\netcoreapp2.2\FirstCSharp.csproj.CoreCompileInputs.cache
+C:\Users\God of War\Documents\GitHub\FirstCSharp\obj\Debug\netcoreapp2.2\FirstCSharp.AssemblyInfoInputs.cache
+C:\Users\God of War\Documents\GitHub\FirstCSharp\obj\Debug\netcoreapp2.2\FirstCSharp.AssemblyInfo.cs
+C:\Users\God of War\Documents\GitHub\FirstCSharp\obj\Debug\netcoreapp2.2\FirstCSharp.dll
+C:\Users\God of War\Documents\GitHub\FirstCSharp\obj\Debug\netcoreapp2.2\FirstCSharp.pdb

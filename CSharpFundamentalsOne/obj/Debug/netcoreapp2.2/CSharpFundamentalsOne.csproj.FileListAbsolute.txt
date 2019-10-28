@@ -1,0 +1,11 @@
+C:\Users\God of War\Documents\GitHub\CSharpFundamentalsOne\bin\Debug\netcoreapp2.2\CSharpFundamentalsOne.deps.json
+C:\Users\God of War\Documents\GitHub\CSharpFundamentalsOne\bin\Debug\netcoreapp2.2\CSharpFundamentalsOne.runtimeconfig.json
+C:\Users\God of War\Documents\GitHub\CSharpFundamentalsOne\bin\Debug\netcoreapp2.2\CSharpFundamentalsOne.runtimeconfig.dev.json
+C:\Users\God of War\Documents\GitHub\CSharpFundamentalsOne\bin\Debug\netcoreapp2.2\CSharpFundamentalsOne.dll
+C:\Users\God of War\Documents\GitHub\CSharpFundamentalsOne\bin\Debug\netcoreapp2.2\CSharpFundamentalsOne.pdb
+C:\Users\God of War\Documents\GitHub\CSharpFundamentalsOne\obj\Debug\netcoreapp2.2\CSharpFundamentalsOne.csprojAssemblyReference.cache
+C:\Users\God of War\Documents\GitHub\CSharpFundamentalsOne\obj\Debug\netcoreapp2.2\CSharpFundamentalsOne.csproj.CoreCompileInputs.cache
+C:\Users\God of War\Documents\GitHub\CSharpFundamentalsOne\obj\Debug\netcoreapp2.2\CSharpFundamentalsOne.AssemblyInfoInputs.cache
+C:\Users\God of War\Documents\GitHub\CSharpFundamentalsOne\obj\Debug\netcoreapp2.2\CSharpFundamentalsOne.AssemblyInfo.cs
+C:\Users\God of War\Documents\GitHub\CSharpFundamentalsOne\obj\Debug\netcoreapp2.2\CSharpFundamentalsOne.dll
+C:\Users\God of War\Documents\GitHub\CSharpFundamentalsOne\obj\Debug\netcoreapp2.2\CSharpFundamentalsOne.pdb
